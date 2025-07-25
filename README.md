@@ -25,7 +25,7 @@ A robust Python-based OSINT tool designed for validating and investigating email
 
 # Installation
 
-Upcoming…
+Upcoming… 28/07/25
 
 
 # Install Dependencies:
