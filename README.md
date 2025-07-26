@@ -25,7 +25,9 @@ A robust Python-based OSINT tool designed for validating and investigating email
 
 # Installation
 
-Upcoming… 28/07/25
+Copy the tool script via the link and paste it into the nano editor, save it as master_osint.py by pressing (Ctrl+O), Enter, and (Ctrl+X) to exit.
+
+
 
 
 # Install Dependencies:
